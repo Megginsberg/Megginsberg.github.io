@@ -1,12 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
 h1 {
   text-align: center;
+  margin-top: 45px;
+  font-family: Lora;
+  font-size: 50px;
 }
 
 p {
   text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+  font-family: Lora;
 }
 
 div {
   text-align: center;
+  font-family: Lora;
+  
+}
+
+nav {
+  align-items: stretch;
+  list-style-type: none;
+  padding: 30px;
+  font-family: Lora;
+  font-size: 20px;
+}
+nav a {
+  margin: 140px;
   margin-top: 10px;
+}
+
+#navlist {
+  background-color: #B1AAE3
+}
+body {
+  background-image: url(../sju.jpg);
+  background-repeat: no-repeat;
 }
