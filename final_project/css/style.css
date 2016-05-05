@@ -11,10 +11,10 @@ p {
   margin-top: 30px;
   font-size: 20px;
   font-family: Lora;
+  padding: 0px;
 }
 
 div {
-  text-align: center;
   font-family: Lora;
 }
 
@@ -26,14 +26,25 @@ nav {
   font-size: 20px;
 }
 nav a {
-  margin: 140px;
+  margin: 100px;
   margin-top: 10px;
 }
 
-#navlist {
-  background-color: #B1AAE3
+ol {
+  font-size: 20px;
+  margin: 5px;
+  padding: 0px;
 }
+li {
+  margin: 10px;
+  font-size: 15px;
+
+}
+
+#navlist {
+  background-color: #D9E8F6;
+}
+
 body {
-  background-image: url(../sju.jpg);
-  background-repeat: no-repeat;
+  background-image: url(../sky.jpg);
 }
