@@ -12,10 +12,14 @@ p {
   font-size: 20px;
   font-family: Lora;
   padding: 0px;
+  margin-bottom: 10px;
 }
 
 div {
   font-family: Lora;
+}
+div row {
+  float: right;
 }
 
 
@@ -36,6 +40,8 @@ ol {
   font-size: 20px;
   margin: 5px;
   padding: 0px;
+  margin-bottom: 5px;
+  color: #327B9F;
 }
 li {
   margin: 10px;
@@ -45,6 +51,7 @@ li {
 
 #navlist {
   background-color: #D9E8F6;
+  margin: 30px;
 }
 
 body {
